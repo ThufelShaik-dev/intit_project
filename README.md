@@ -1,1 +1,2 @@
 This Repo is created Locally.
+Added remotely from local machine through commands like 1->git remote add origin https://github.com/ThufelShaik-dev/intit_project.git   2->git remote -v  3->git branch 3->git push origin main or git push -u origin main.so that we can not write every time git push oriogin main rather git push.
